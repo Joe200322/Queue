@@ -1,6 +1,6 @@
 # Queue
 implementing quere using linked list which will make enquue and dequeue method time complexity O(1)
-method :
+method : \n
 1- enqueue  
 2- dequeue
 3- first // return the first element without removing it 
